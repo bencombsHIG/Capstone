@@ -1,2 +1,1 @@
-# Capstone
-Tech-Catalyst Associate Data Engineering Project 2024
+# Tech-Catalyst Associate Data Engineering Project 2024
