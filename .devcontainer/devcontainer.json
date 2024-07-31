@@ -2,8 +2,7 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/miniconda
 {
 	"hostRequirements": {
-   		"cpus": 8,
-   		"memory": "8gb"
+   		"memory": "4gb"
 	},
 	"name": "Miniconda (Python 3)",
 	"build": { 
